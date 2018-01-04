@@ -4,7 +4,7 @@ A Clojure library to interface to the Binance.com API.
 
 ## Usage
 
-The Binance API is documented at ... TODO ...
+The Binance API is documented at https://github.com/binance-exchange/binance-official-api-docs
 
 ## License
 
